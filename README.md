@@ -4,8 +4,9 @@ Group Aphrodite
 Proposed Project: Gradebook Management System
 
 Features:
-- alows teachers to input and manage student records, including names and grades for various subjects.
--calculates and displays the average grade for each student.
+- allows teachers to input a student's grades in their long quizzes
+-sums up the overall points gained by the student per part of an exam  
+-displays the average grade for the student for all three quizzes
 -provides a summary of class performance, such as the average class grade and the highest/lowest scores
 -for easy addition, modification, or deletion of student records
 - generates simple reports, like grade distribution and pass/fail percentages
