@@ -1,5 +1,8 @@
 # ec2b4AphroditeProject
 
+youtube link:
+poster link: file:///Users/kellysiy/Downloads/FinalProjectPoster_Aphrodite%20(1).pdf
+
 Group Aphrodite
 Proposed Project: Gradebook Management System
 
