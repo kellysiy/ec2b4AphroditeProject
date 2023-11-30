@@ -5,69 +5,38 @@ gdrive link: https://drive.google.com/drive/folders/1mGWmcq-zgSW7tAXa2f41xz_BF2F
 Group Aphrodite
 Proposed Project: Gradebook Management System
 
-Features:
-- allows teachers to input a student's grades in their long quizzes
--sums up the overall points gained by the student per part of an exam  
--displays the average grade for the student for all three quizzes
--provides a summary of class performance, such as the average class grade and the highest/lowest scores
--for easy addition, modification, or deletion of student records
-- generates simple reports, like grade distribution and pass/fail percentages
+Functionalities:
+- allows user to input a student's name and grades in the system
+- displays entered data
+- automatically computes grade average, identifies pass/fail, and ranks highest to lowest
+- allows user to reset the system, deleting all recorded data
+- allows user to delete chosen student record, erasing a row at a time
 
 
 I. Introduction
-In the introduction, the focus is on the significance of the Gradebook Management
-System. It outlines the project's primary objectives, emphasizing the need to efficiently manage
-student records, calculate average grades, and generate insightful statistical reports. This
-section also defines the project's scope, highlighting features like user-friendly record
-management and statistical analysis.
+As students, the group has seen teachers struggle with grading the tests and activities of hundreds of students. Teachers would have access to different apps like Google Sheets, however, they would need to code it first before using it. That said, the pair has decided to create an app that could hopefully help teachers easily grade their students. The suggested app asks the user to simply enter the student’s name and grades, then it will immediately compute the average grade, identify if it is passing or failing, and rank the students from highest scorer to lowest. The  app, unlike Google Sheets or Excel, would not require the user to code it before usage. This app can be of great assistance to teachers, especially new teachers since they would not have an existing gradebook system. New teachers will be able to save a fairly large amount of time coding by using this app. The app’s main selling point is its ease of use since there is no coding and formulas involved. Teachers would simply need to enter data and the system automatically does its functions.
+
+The goal of the propsed app is to help make the grading system of teachers easier. It aims to assist teachers in efficiently and accurately grading the hundreds of students they handle daily. Since it aims to assist professors, this app includes features such as average grade computation, pass/fail identifier, and ranking system. 
+
+
 II. Methodology
-The methodology section delves into the "how" of the project. It describes the approach
-taken to develop the system, outlining major phases and milestones. The proposed architecture
-is discussed, detailing the essential components and using diagrams such as IPO, flowcharts,
-and UML to provide a visual understanding of the system's design.
+The team will utilize MATLAB Online in creating this proposed app. The pair will first decide on what their user interface will do, what features it will have. Then, they will decide on what components they need, and after, arrange it accordingly into the user interface. The pair will appropriately select the components that would need callbacks added. After, the team will code each function that needs coding. 
+
+
 III. Deliverables
 Time Table
-Date Activity Goal
-October 16 - October 22 Brainstorming of Project Ideas
-October 23 Approved Project Proposal
+October 16 - October 22: Brainstorming of Project Ideas
+October 23: Approved Project Proposal
+October 24 - November 5: Further Research on Approved Topic
+November 6 - November 12: Creation of Project Proposal Paper
+November 13: Submission of Paper Proposal
+November 14 - November 24: Creation of Codes
+November 25 - November 30: Integrating Codes
+December 1 - December 3: Revisions
+December 4: Submission Day
 
-October 24 - November 5 Further Research on Approved Topic
-November 6 - November 12 Creation of Project Proposal Paper
-November 13 Submission of Paper Proposal
-November 14 - November 24 Creation of Codes
-November 25 - November 30 Integrating Codes
-December 1 - December 3 Revisions
-December 4 Submission Day
-Deliverables are presented in the table above, offering a timeline for completing each
-task or milestone. This section provides transparency on the project's progress and outlines the
-additional materials accompanying the project, like a user manual or technical document, to
-enhance user understanding.
+As seen above, we have set a schedule of activities for the completion of this project. This schedule will allow us to see our goals clearly and assist us in reaching our goals. This will also provide us with a guide on what we need to do.
+
 IV. Evaluation
-The evaluation section establishes the criteria for assessing the project's success. It
-defines the metrics and measures to gauge the system's performance and effectiveness. This
-part ensures a clear understanding of how well the Gradebook Management System meets its
-intended goals and functionalities.
-
-V. Conclusion
-
-In the conclusion, the project's significance is summarized, emphasizing its role in
-
-addressing the practical need for efficient gradebook management. It reiterates the benefits,
-
-particularly for teachers and students, in terms of simplified data handling and insightful
-
-academic analysis.
-
-VI. References
-
-The references section acknowledges the sources and references used during the
-
-project's development. It provides a bibliographic listing, giving credit to external materials that
-
-contributed to the project's conceptualization and implementation.
-
-
-
-
-
+The team's gradebook system should allow the user to input a student's name and grades. The user will then press the 'SAVE' button and the data will be placed into a table. The system will then compute the quizzes's average and display it. The average grade will then be identified by the system as 'PASS' or 'FAIL'. The system will then rank the students from highest to lowest. All these informatio will show onto the 6-column table on the user interface.
 
